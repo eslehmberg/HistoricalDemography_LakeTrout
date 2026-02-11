@@ -9,7 +9,9 @@
 2. Qubit a random set of samples from each plate (6-10). If the concentration is extremely high, these may need to be diluted (amount TBD). For Qubit protocol, see product instructions
 3. *Clean your workspace before and after you work, always*. This is more important than anything. Use a 20% bleach solution to wipe down all surfaces and tools. Let everything dry before use.
 
-## 1. PCR 1 Conditions 
+## 1. PCR 1 
+
+Fill out the excel sheet that calculates amounts needed (this should not vary as long as you're doing a full plate). It helps to track which samples are complete.
 
 ### Recipe: 10uL volume
 - 5uL Qiagen Multiplex PCR Plus Master Mix
@@ -35,7 +37,7 @@ Run the same random samples on the Qubit after PCR1 is complete. You only need t
 
 It's sometimes worth also running some of those samples on a gel if you have time, at least for the first few plates.
 
-## 2. PCR 2 Conditions
+## 2. PCR 2 
 
 ### Recipe: 10uL volume per well
 - 2 μL NEB OneTaq HotStart Buffer
