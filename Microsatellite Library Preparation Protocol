@@ -7,7 +7,7 @@
 
 1. Complete a HotSHot extraction (see inluded protocol). 
 2. Qubit a random set of samples from each plate (6-10). If the concentration is extremely high, these may need to be diluted (amount TBD). For Qubit protocol, see product instructions
-3. *Clean your workspace*. This is more important than anything. Use a 20% bleach solution to wipe down all surfaces and tools. Let everything dry before use.
+3. *Clean your workspace before and after you work, always*. This is more important than anything. Use a 20% bleach solution to wipe down all surfaces and tools. Let everything dry before use.
 
 ## 1. PCR 1 Conditions 
 
@@ -56,6 +56,15 @@
 | Extension           | 68     | 500 (5 minutes) |
 
 
+## 3. Pooling and cleaning
+
+a. Pool all samples in single plates, so that you have the same number of tubes as you have plates.
+
+b. Aliquot 200uL from each pooled sample and use Beckman-Coulter Ampure XP magnetic beads to clean any fragments (0.625x bead:sample ratio for large fragments).
+
+c. Do a second clean for small fragments using 0.85x ratio of bead:sample using the same sample you just cleaned.
+
+d. Use the qubit to quantify each pooled sample.
 
 
 
