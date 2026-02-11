@@ -12,10 +12,10 @@
 ## 1. PCR 1 Conditions 
 
 ## Recipe: 10uL volume
--5uL Qiagen Multiplex PCR Plus Master Mix
--3.5uL DNA
--1uL RNAase-free water
--0.5uL 2uM primers (pooled in equal amounts)
+- 5uL Qiagen Multiplex PCR Plus Master Mix
+- 3.5uL DNA
+- 1uL RNAase-free water
+- 0.5uL 2uM primers (pooled in equal amounts)
 
 ### Thermocycler settings
 
@@ -37,13 +37,13 @@ It's sometimes worth also running some of those samples on a gel if you have tim
 ## 2. PCR 2 Conditions
 
 ### Recipe: 10uL volume per well
--2 μL NEB OneTaq HotStart Buffer
--1.5uL PCR1 product
--5.85uL RNAase-free water
--0.2 μL 10 mM dNTPs
--0.2 μL of 10 μM i5 index adapter
--0.2 of 10 μM i7 index adapter
--0.05 μL of NEB OneTaq HotStart Polymerase
+- 2 μL NEB OneTaq HotStart Buffer
+- 1.5uL PCR1 product
+- 5.85uL RNAase-free water
+- 0.2 μL 10 mM dNTPs
+- 0.2 μL of 10 μM i5 index adapter
+- 0.2 of 10 μM i7 index adapter
+- 0.05 μL of NEB OneTaq HotStart Polymerase
 
 ### Thermocycler settings
 
