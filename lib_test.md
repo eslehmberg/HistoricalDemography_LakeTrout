@@ -51,11 +51,11 @@ It's sometimes worth also running some of those samples on a gel if you have tim
 |Step         | Temperature (C) | Time (sec)     |
 |:-----------:|:---------------:|:--------------:|
 | Initial Denaturation |   94   | 60 (2 minutes) |
-|                | 10 cycles |                     |
+|                | __10 cycles__ |                     |
 | Denaturation         | 94     | 30             |
 | Annealing            | 62     | 60             |
 | Extension            | 68     | 60             |
-|                | Final Extension |               |
+|                | __Final Extension__ |               |
 | Extension           | 68     | 500 (5 minutes) |
 
 
