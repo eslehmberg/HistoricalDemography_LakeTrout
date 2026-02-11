@@ -29,6 +29,7 @@
 |                 | __Final Extension__ |                |
 | Extension            | 68     | 600 (10 minutes)|
 
+TOTAL RUN TIME: 2 hours, 17 minutes
 
 Run the same random samples on the Qubit after PCR1 is complete. You only need to do this for the first few plates. Once you're sure it's working, this step can be bypassed. 
 
@@ -57,6 +58,7 @@ It's sometimes worth also running some of those samples on a gel if you have tim
 |                | __Final Extension__ |               |
 | Extension           | 68     | 500 (5 minutes) |
 
+TOTAL RUN TIME: 33 minutes
 
 ## 3. Pooling and cleaning
 
