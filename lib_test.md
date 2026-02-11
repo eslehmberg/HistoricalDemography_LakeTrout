@@ -1,9 +1,9 @@
 ## Microsatellite Library Preparation for Lake Trout (*Salvelinus namaycush*)
 
-# Original protocol here: Marcy-Quay, B., Wilson, C. C., Osborne, C. A., & Marsden, J. E. (2023). Optimization of an amplicon sequencing-based microsatellite panel and protocol for stock identification and kinship inference of lake trout (Salvelinus namaycush). Ecology and Evolution, 13, e10020. https://doi.org/10.1002/ece3.10020
-# Protocol modifications: Caleigh Smith (Ontario Ministry of Natural Resources) and Emma Lehmberg (Lakehead University & IISD ELA)
+### Original protocol here: Marcy-Quay, B., Wilson, C. C., Osborne, C. A., & Marsden, J. E. (2023). Optimization of an amplicon sequencing-based microsatellite panel and protocol for stock identification and kinship inference of lake trout (Salvelinus namaycush). Ecology and Evolution, 13, e10020. https://doi.org/10.1002/ece3.10020
+### Protocol modifications: Caleigh Smith (Ontario Ministry of Natural Resources) and Emma Lehmberg (Lakehead University & IISD ELA)
 
-## Before beginning ##
+## Before beginning 
 
 1. Complete a HotSHot extraction (see inluded protocol). 
 2. Qubit a random set of samples from each plate (6-10). If the concentration is extremely high, these may need to be diluted (amount TBD). For Qubit protocol, see product instructions
@@ -11,13 +11,13 @@
 
 ## 1. PCR 1 Conditions 
 
-# Recipe: 10uL volume
+## Recipe: 10uL volume
 5uL Qiagen Multiplex PCR Plus Master Mix
 3.5uL DNA
 1uL RNAase-free water
 0.5uL 2uM primers (pooled in equal amounts)
 
-# Thermocycler settings
+### Thermocycler settings
 
 |Step         | Temperature (C) | Time (sec)     |
 |:-----------:|:---------------------------------|
@@ -29,12 +29,14 @@
 |                 Final Extension                |
 | Extension            | 68     | 600 (10 minutes)|
 
-# run the same random samples on the Qubit 
-# worth also running some of those samples on a gel if you have time
+
+# Run the same random samples on the Qubit after PCR1 is complete. You only need to do this for the first few plates. Once you're sure it's working, this step can be bypassed. 
+
+# It's sometimes worth also running some of those samples on a gel if you have time, at least for the first few plates.
 
 ## 2. PCR 2 Conditions
 
-# Recipe: 10uL volume per well
+### Recipe: 10uL volume per well
 2 μL NEB OneTaq HotStart Buffer
 1.5uL PCR1 product
 5.85uL RNAase-free water
@@ -43,7 +45,7 @@
 0.2 of 10 μM i7 index adapter
 0.05 μL of NEB OneTaq HotStart Polymerase
 
-# Thermocycler settings
+### Thermocycler settings
 
 |Step         | Temperature (C) | Time (sec)     |
 |:-----------:|:---------------------------------|
