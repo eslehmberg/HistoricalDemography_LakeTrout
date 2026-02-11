@@ -22,12 +22,12 @@
 |Step         | Temperature (C) | Time (sec)     |
 |:-----------:|:---------------:|:--------------:|
 | Initial Denaturation |   95   | 300 (5 minutes)|
-|                 35 cycles                      |
+|                 | __35 cycles__ |                      |
 |:-----------:|:---------------:|:--------------:|
 | Denaturation         | 95     | 30             |
 | Annealing            | 60     | 90             |
 | Extension            | 72     | 90             |
-|                 Final Extension                |
+|                 | __Final Extension__ |                |
 | Extension            | 68     | 600 (10 minutes)|
 
 
