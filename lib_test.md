@@ -1,7 +1,7 @@
 ## Microsatellite Library Preparation for Lake Trout (*Salvelinus namaycush*)
 
-### Original protocol here: Marcy-Quay, B., Wilson, C. C., Osborne, C. A., & Marsden, J. E. (2023). Optimization of an amplicon sequencing-based microsatellite panel and protocol for stock identification and kinship inference of lake trout (Salvelinus namaycush). Ecology and Evolution, 13, e10020. https://doi.org/10.1002/ece3.10020
-### Protocol modifications: Caleigh Smith (Ontario Ministry of Natural Resources) and Emma Lehmberg (Lakehead University & IISD ELA)
+#### Original protocol here: Marcy-Quay, B., Wilson, C. C., Osborne, C. A., & Marsden, J. E. (2023). Optimization of an amplicon sequencing-based microsatellite panel and protocol for stock identification and kinship inference of lake trout (Salvelinus namaycush). Ecology and Evolution, 13, e10020. https://doi.org/10.1002/ece3.10020
+#### Protocol modifications: Caleigh Smith (Ontario Ministry of Natural Resources) and Emma Lehmberg (Lakehead University & IISD ELA)
 
 ## Before beginning 
 
@@ -12,17 +12,18 @@
 ## 1. PCR 1 Conditions 
 
 ## Recipe: 10uL volume
-5uL Qiagen Multiplex PCR Plus Master Mix
-3.5uL DNA
-1uL RNAase-free water
-0.5uL 2uM primers (pooled in equal amounts)
+-5uL Qiagen Multiplex PCR Plus Master Mix
+-3.5uL DNA
+-1uL RNAase-free water
+-0.5uL 2uM primers (pooled in equal amounts)
 
 ### Thermocycler settings
 
 |Step         | Temperature (C) | Time (sec)     |
-|:-----------:|:---------------------------------|
+|:-----------:|:---------------:|:--------------:|
 | Initial Denaturation |   95   | 300 (5 minutes)|
 |                 35 cycles                      |
+|:-----------:|:---------------:|:--------------:|
 | Denaturation         | 95     | 30             |
 | Annealing            | 60     | 90             |
 | Extension            | 72     | 90             |
@@ -30,27 +31,28 @@
 | Extension            | 68     | 600 (10 minutes)|
 
 
-# Run the same random samples on the Qubit after PCR1 is complete. You only need to do this for the first few plates. Once you're sure it's working, this step can be bypassed. 
+Run the same random samples on the Qubit after PCR1 is complete. You only need to do this for the first few plates. Once you're sure it's working, this step can be bypassed. 
 
-# It's sometimes worth also running some of those samples on a gel if you have time, at least for the first few plates.
+It's sometimes worth also running some of those samples on a gel if you have time, at least for the first few plates.
 
 ## 2. PCR 2 Conditions
 
 ### Recipe: 10uL volume per well
-2 μL NEB OneTaq HotStart Buffer
-1.5uL PCR1 product
-5.85uL RNAase-free water
-0.2 μL 10 mM dNTPs
-0.2 μL of 10 μM i5 index adapter
-0.2 of 10 μM i7 index adapter
-0.05 μL of NEB OneTaq HotStart Polymerase
+-2 μL NEB OneTaq HotStart Buffer
+-1.5uL PCR1 product
+-5.85uL RNAase-free water
+-0.2 μL 10 mM dNTPs
+-0.2 μL of 10 μM i5 index adapter
+-0.2 of 10 μM i7 index adapter
+-0.05 μL of NEB OneTaq HotStart Polymerase
 
 ### Thermocycler settings
 
 |Step         | Temperature (C) | Time (sec)     |
-|:-----------:|:---------------------------------|
+|:-----------:|:---------------:|:--------------:|
 | Initial Denaturation |   94   | 60 (2 minutes) |
 |                 10 cycles                      |
+|:-----------:|:---------------:|:--------------:|
 | Denaturation         | 94     | 30             |
 | Annealing            | 62     | 60             |
 | Extension            | 68     | 60             |
