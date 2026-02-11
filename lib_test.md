@@ -11,7 +11,7 @@
 
 ## 1. PCR 1 Conditions 
 
-## Recipe: 10uL volume
+### Recipe: 10uL volume
 - 5uL Qiagen Multiplex PCR Plus Master Mix
 - 3.5uL DNA
 - 1uL RNAase-free water
