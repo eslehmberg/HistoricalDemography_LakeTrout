@@ -51,6 +51,7 @@ It's sometimes worth also running some of those samples on a gel if you have tim
 |Step         | Temperature (C) | Time (sec)     |
 |:-----------:|:---------------:|:--------------:|
 | Initial Denaturation |   94   | 60 (2 minutes) |
+|------------------------------------------------|
 |                 10 cycles                      |
 |:-----------:|:---------------:|:--------------:|
 | Denaturation         | 94     | 30             |
