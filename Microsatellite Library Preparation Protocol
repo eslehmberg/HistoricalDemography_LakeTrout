@@ -1,3 +1,25 @@
-## Microsatellite Library Preparation ##
+## Microsatellite Library Preparation for Lake Trout (*Salvelinus namaycush*)
+
 # Original protocol here: Marcy-Quay, B., Wilson, C. C., Osborne, C. A., & Marsden, J. E. (2023). Optimization of an amplicon sequencing-based microsatellite panel and protocol for stock identification and kinship inference of lake trout (Salvelinus namaycush). Ecology and Evolution, 13, e10020. https://doi.org/10.1002/ece3.10020
 # Protocol modifications: Caleigh Smith (Ontario Ministry of Natural Resources) and Emma Lehmberg (Lakehead University & IISD ELA)
+
+## Before beginning ##
+
+1. Complete a HotSHot extraction (see inluded protocol). 
+2. Qubit a random set of samples from each plate (6-10). If the concentration is extremely high, these may need to be diluted (amount TBD). For Qubit protocol, see product instructions
+3. *Clean your workspace*. This is more important than anything. Use a 20% bleach solution to wipe down all surfaces and tools. Let everything dry before use.
+
+## 1. PCR 1 Conditions 
+
+# Recipe: 10uL volume
+5uL Qiagen Multiplex PCR Plus Master Mix
+3.5uL DNA
+1uL RNAase-free water
+0.5uL 2uM primers (pooled in equal amounts)
+
+
+
+
+
+
+
