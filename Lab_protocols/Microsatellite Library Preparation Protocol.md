@@ -71,3 +71,24 @@ b. Aliquot 200uL from each pooled sample and use Beckman-Coulter Ampure XP magne
 c. Do a second clean for small fragments using 0.85x ratio of bead:sample using the same sample you just cleaned.
 
 d. Use the qubit to quantify each pooled sample.
+
+## Notes for using Truseq adaptors 
+*The indexing protocol is different for the Truseq indexes though. The i05 indexes are in plate format and should be 5uM each. I make a i07 ‘cocktail’ with 106uL of 10uM i07 primer and 530uL of Mastermix. In a new plate for indexing I combine 6uL of the i07 cocktail, 2uL of the respective i05 indexes and 2uL of amplified product. The cycling conditions I’ve been using are as follows:
+
+ 
+
+95° - 15 min
+
+10 cycles of
+
+95° - 10 sec
+
+65° - 30 sec
+
+72° - 30 sec
+
+Followed by 72° - 5 minutes and a 4° hold
+
+ 
+
+I followed the bead size selection in the Ben MQ paper, though it is different from what I do in other protocols.*  
