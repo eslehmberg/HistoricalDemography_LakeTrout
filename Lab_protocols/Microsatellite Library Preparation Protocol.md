@@ -37,7 +37,9 @@ Run the same random samples on the Qubit after PCR1 is complete. You only need t
 
 It's sometimes worth also running some of those samples on a gel if you have time, at least for the first few plates.
 
-## 2. PCR 2 *see below for Truseq modifications*
+## 2. PCR 2 
+
+###(*see below for Truseq modifications*)
 
 ### Recipe: 10uL volume per well
 - 2 μL NEB OneTaq HotStart Buffer
