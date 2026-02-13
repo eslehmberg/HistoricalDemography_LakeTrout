@@ -39,7 +39,7 @@ It's sometimes worth also running some of those samples on a gel if you have tim
 
 ## 2. PCR 2 
 
-###(*see below for Truseq modifications*)
+### (*see below for Truseq modifications*)
 
 ### Recipe: 10uL volume per well
 - 2 μL NEB OneTaq HotStart Buffer
